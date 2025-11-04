@@ -1,11 +1,11 @@
 # How to Test AI Apps
 
-Welcome! This repository contains **all materials** for the *How to Test AI Apps* course.
+This repository contains **all materials** for the *How to Test AI Apps*.
 
 ---
 ## Branch‑per‑Day layout 🗂️
 
-**Each training day lives in its own Git branch**:
+**Each day lives in its own Git branch**:
 
 | Branch | What you’ll find |
 |--------|------------------|
